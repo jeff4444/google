@@ -1,0 +1,47 @@
+nav > ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 2px;
+    margin: 2px;
+    float: right;
+    
+}
+
+nav > ul > li {
+    padding: 5px;
+    margin: 5px;
+    
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+h2 {
+    color: red;
+    font-weight: 100;
+    margin-bottom: 70px;
+}
+
+form {
+    width: 600px;
+    margin-top: 70px;
+    text-align: left;
+}
+
+input {
+    margin: 5px;
+    width: 300px;
+    height: 20px;
+}
+
+label {
+    text-align: left;
+}
+
+.last {
+    width: 150px;
+}
